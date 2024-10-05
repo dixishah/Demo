@@ -1,1 +1,2 @@
 HELLO ALL THIS IS VERSION 1. Now it's open.
+This is version 2.
